@@ -31,7 +31,7 @@
                     </div>
                 </Card>
             </Content>
-            <Footer class="layout-footer-center">考拉 18610725427 ^_^</Footer>
+            <Footer class="layout-footer-center">吴新华 17681334396</Footer>
         </Layout>
     </div>
 </template>
